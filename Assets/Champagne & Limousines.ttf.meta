@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2a3175a72cc9e094ca0c2b463ceb40c6
+timeCreated: 1504490583
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 180
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Champagne & Limousines
+  fontNames:
+  - Champagne & Limousines
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

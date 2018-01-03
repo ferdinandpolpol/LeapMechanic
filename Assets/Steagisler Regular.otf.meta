@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dbc86496fffe51841996a53768c26772
+timeCreated: 1504490830
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 180
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Steagisler
+  fontNames:
+  - Steagisler
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

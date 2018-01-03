@@ -1,0 +1,10 @@
+Remove the bolt of the positive wire.
+Remove the bolt of the battery holder.
+Remove the bolt of the negative wire.
+Remove the old Battery.
+Put in the new Battery.
+Remove Red cap.
+Remove Blue cap.
+Put the positive wire.
+Put the holder.
+Put the negative wire.
